@@ -30,4 +30,3 @@ I design, secure, and automate enterprise hybrid-cloud environments. This profil
 
 ## 📈 Connect With Me
 * **LinkedIn:** [ReubenMehunro](https://www.linkedin.com/in/reuben-mehunro-b3a9ab268/)
-* **Email:** reubenmehunro@gmail.com
