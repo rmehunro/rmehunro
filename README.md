@@ -2,9 +2,9 @@
 
 ### Infrastructure & Cybersecurity Professional | Canada, BC
 
-**| CCNP | Fortinet FCP | AZ-500 | M.Sc. Cybersecurity (TMU) | Focus: Infrastructure SecOps & GRC / Technical Risk Auditing |** 
+**| CCNP | Fortinet FCP | AZ-500 | M.Sc. Cybersecurity (TMU) | Focus: Cloud Secruity, Infrastructure SecOps & GRC / Technical Risk Auditing |** 
 
-I design, secure, and automate enterprise hybrid-cloud environments. This profile showcases some of my technical blueprints, Infrastructure as Code, and security frameworks. 
+I design, secure, and automate enterprise hybrid-cloud environments with a focus on Microsoft Azure, cloud networking, infrastructure security, and security operations. This profile showcases some of my technical blueprints, Infrastructure as Code, hybrid-cloud architectures, and practical security engineering projects. 
 
 ###  Featured Portfolios
 
