@@ -8,13 +8,13 @@ I design, secure, and automate enterprise hybrid-cloud environments with a focus
 
 ###  Featured Portfolios
 
-###  [Azure Hub-and-Spoke Architecture via Terraform](https://github.com)
+###  [Azure Hub-and-Spoke Architecture via Terraform](https://github.com/rmehunro/azure-hub-spoke-terraform))
 * **What it is:** Production-inspired Infrastructure as Code that deploys a highly available, secure, and scale-out Azure hybrid network topology.
 * **Why look here:** Highlights my skills in Terraform automation, Azure networking, security logging, and DevOps integration.
 
 
 
-###  [Azure ExpressRoute & VPN Failover Framework](https://github.com)
+###  [Azure ExpressRoute & VPN Failover Framework](https://github.com/rmehunro/azure-expressroute-vpn-failover)
 * **What it is:** Production-inspired high-availability hybrid connection design between on-premises infrastructure and Azure using ExpressRoute with automated VPN fallback.
 * **Why look here:** Demonstrates advanced BGP routing, multi-site resilience, and SD-WAN/hybrid connectivity.
 
