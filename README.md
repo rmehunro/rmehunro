@@ -8,7 +8,7 @@ I design, secure, and automate enterprise hybrid-cloud environments with a focus
 
 ###  Featured Portfolios
 
-###  [Azure Hub-and-Spoke Architecture via Terraform](https://github.com/rmehunro/azure-hub-spoke-terraform))
+###  [Azure Hub-and-Spoke Architecture via Terraform](https://github.com/rmehunro/azure-hub-spoke-terraform)
 * **What it is:** Production-inspired Infrastructure as Code that deploys a highly available, secure, and scale-out Azure hybrid network topology.
 * **Why look here:** Highlights my skills in Terraform automation, Azure networking, security logging, and DevOps integration.
 
