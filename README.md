@@ -14,7 +14,7 @@ I design, secure, and automate enterprise hybrid-cloud environments with a focus
 
 
 
-###  [FortiGate SD-WAN & MPLS Failover POC](https://github.com/rmehunro/fortigate-sdwan)
+###  [FortiGate SD-WAN](https://github.com/rmehunro/fortigate-sdwan)
 * **What it is:** FortiGate SD-WAN proof of concept demonstrating resilient WAN connectivity across Internet and MPLS underlay paths.
 * **Why look here:** Demonstrates SD-WAN path selection, BGP routing, VPN overlays, MPLS connectivity, failover behaviour, and real-world network troubleshooting.
 
