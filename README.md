@@ -9,17 +9,17 @@ I design, secure, and automate enterprise hybrid-cloud environments with a focus
 ###  Featured Portfolios
 
 ###  [Azure Hub-and-Spoke Architecture via Terraform](https://github.com/rmehunro/azure-hub-spoke-terraform)
-* **What it is:** Production-inspired Infrastructure as Code that deploys a highly available, secure, and scale-out Azure hybrid network topology.
+* **What it is:** Infrastructure as Code that deploys a highly available, secure, and scale-out Azure hybrid network topology.
 * **Why look here:** Highlights my skills in Terraform automation, Azure networking, security logging, and DevOps integration.
 
 
 
-###  [Azure ExpressRoute & VPN Failover Framework](https://github.com/rmehunro/azure-expressroute-vpn-failover)
-* **What it is:** Production-inspired high-availability hybrid connection design between on-premises infrastructure and Azure using ExpressRoute with automated VPN fallback.
-* **Why look here:** Demonstrates advanced BGP routing, multi-site resilience, and SD-WAN/hybrid connectivity.
+###  [FortiGate SD-WAN & MPLS Failover POC](https://github.com/rmehunro/fortigate-sdwan)
+* **What it is:** FortiGate SD-WAN proof of concept demonstrating resilient WAN connectivity across Internet and MPLS underlay paths.
+* **Why look here:** Demonstrates SD-WAN path selection, BGP routing, VPN overlays, MPLS connectivity, failover behaviour, and real-world network troubleshooting.
 
 
-###  [Hybrid Enterprise SOC & Automated Detection Lab](https://github.com/reubenmehunro-source/CAPSTONE-hybrid-enterprise-security-operations-and-automated-detection-lab)
+###  [Hybrid Enterprise SOC & Automated Detection Lab](https://github.com/rmehunro/CAPSTONE-hybrid-enterprise-security-operations-and-automated-detection-lab)
 
 * **What it is:** An automated hybrid-cloud cyber range connecting an on-premises Proxmox cluster (FortiGate, Active Directory, Windows VMs, Metasploitable) to Azure VNets for threat emulation and KQL detection engineering.
 * **Why look here:** Demonstrates end-to-end security telemetry engineering, FortiOS network diagnostics, threat detection, and security controls assessment across a hybrid environment.
